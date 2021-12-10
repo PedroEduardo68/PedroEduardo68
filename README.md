@@ -27,16 +27,13 @@
   <img align="center" alt="Pedro-android"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
                               
- <h2> Master's degree in applied computing 💻📲🐧📡 Dev P4 and MERN and Network Manager <qh2>
+ <h2> Master's degree in applied computing 💻📲🐧📡 Dev P4 and MERN and Network Manager </h2>
                                                                                                                                         
-<div align="center"><h3>Contact <h3>
+<div align="center"><h4>Contact </h4>
   <a href="https://www.linkedin.com/in/pedro-eduardo-camera/" ><img align="center" alt="Pedro-psql"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>                                                                                                                                            
-                                                                                                                                             
 
-   
- <br /> 
- <div align="center"><br> <h3>Dev Environment <h3>
+ <div align="center"><br> <h4>Dev Environment <h4>
   <img align="center" alt="Pedro-sh"  src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg">
   <img align="center" alt="Pedro-vsc"  src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
  </div>
