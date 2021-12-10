@@ -1,6 +1,12 @@
-### Hi there 👋
+### Olá, Eu sou o Pedro Eduardo👋
 
-<!--
+<div align="center">
+  <a href="https://github.com/PedroEduardo68>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEduardo68&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/ >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEduardo68&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
 **PedroEduardo68/PedroEduardo68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
