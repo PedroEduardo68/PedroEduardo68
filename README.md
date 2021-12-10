@@ -18,12 +18,23 @@
   <img align="center" alt="Pedro-C"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whitettps://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/c-original.svg">
 </div>
 
-<br /> 
- <div align="center"><br> <h3>DataBases <h3>
+<div align="center"><h3>DataBases <h3>
   <img align="center" alt="Pedro-psql"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Pedro-mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Pedro-sqllite"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<h3>Operation System <h3>
+  <img align="center" alt="Pedro-debian"  src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+  <img align="center" alt="Pedro-ubuntu"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white>
+  <img align="center" alt="Pedro-centos"  src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
+  <img align="center" alt="Pedro-android"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
+                              
+ Master's degree in applied computing 💻📲🐧📡 Dev P4 and MERN and Network Manager
+                                                                                                                                        
+<div align="center"><h3>Contact <h3>
+  <a href="https://www.linkedin.com/in/pedro-eduardo-camera/" ><img align="center" alt="Pedro-psql"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>                                                                                                                                            
+                                                                                                                                             
 
    
  <br /> 
@@ -32,6 +43,10 @@
   <img align="center" alt="Pedro-vsc"  src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
  </div>
    
+   
+   
+   
+   https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
    
    
    
