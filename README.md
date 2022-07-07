@@ -14,7 +14,6 @@
   <img align="center" alt="Pedro-Express"  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="Pedro-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Pedro-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Pedro-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Pedro-C"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whitettps://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/c-original.svg"><br /><br />
   
   <img align="center" alt="Pedro-psql"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
