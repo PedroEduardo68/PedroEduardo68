@@ -40,7 +40,7 @@
   <img src="./img/octocat-pedro.png" width="500" title="Git of the Pedro">
 </p>
 
-<div align="center"><h4>contribution Grid </h4>
+<div align="center"><h3>Contribution Grid </h3>
 
 ![Snake animation](https://github.com/PedroEduardo68/PedroEduardo68/blob/output/github-contribution-grid-snake.svg)   
 <div>
