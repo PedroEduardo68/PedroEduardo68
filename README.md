@@ -38,7 +38,12 @@
  </div>
    
    
-   
+
+<p align="center">
+  <img src="./img/octocat-pedro.png" width="500" title="Git of the Pedro">
+</p>
+
+
 
 <!--  
 <div align="center"><br> <h3>Dev <h3>
