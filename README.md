@@ -37,7 +37,7 @@
   <img align="center" alt="Pedro-vsc"  src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
  </div>
 
-![Snake animation](https://github.com/PedroEduardo68/PedroEduardo68/blob/output/github-contribution-grid-snake.svg)   
+![Snake animation](https://github.com/PedroEduardo68/PedroEduardo681/blob/output/github-contribution-grid-snake.svg)   
 
 <p align="center">
   <img src="./img/octocat-pedro.png" width="500" title="Git of the Pedro">
