@@ -42,7 +42,7 @@
 
 <div align="center"><h4>contribution Grid </h4>
 
-![Snake animation](https://github.com/PedroEduardo68/PedroEduardo681/blob/output/github-contribution-grid-snake.svg)   
+![Snake animation](https://github.com/PedroEduardo68/PedroEduardo68/blob/output/github-contribution-grid-snake.svg)   
 <div>
 
 <!--  
