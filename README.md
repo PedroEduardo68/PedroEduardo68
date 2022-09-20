@@ -25,23 +25,24 @@
   <img align="center" alt="Pedro-centos"  src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
   <img align="center" alt="Pedro-android"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
+
                               
  <h2> Master's degree in applied computing 💻📲🐧📡 Dev P4 and MERN and Network Manager and Linux Manger </h2>
-                                                                                                                                        
+
 <div align="center"><h4>Contact </h4>
   <a href="https://www.linkedin.com/in/pedro-eduardo-camera/" ><img align="center" alt="Pedro-psql"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>                                                                                                                                            
 
- <div align="center"><br> <h4>Dev Environment <h4>
-  <img align="center" alt="Pedro-sh"  src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg">
-  <img align="center" alt="Pedro-vsc"  src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
- </div>
 
-![Snake animation](https://github.com/PedroEduardo68/PedroEduardo681/blob/output/github-contribution-grid-snake.svg)   
+ <h2> In space!! Towards the unknown! Never known!! Remember rocket has no re brand!🚀🌌 Pedro Camera </h2>
 
 <p align="center">
   <img src="./img/octocat-pedro.png" width="500" title="Git of the Pedro">
 </p>
+
+<div align="center"><br> <h4>Contribution-Grid<h4>
+  ![Snake animation](https://github.com/PedroEduardo68/PedroEduardo681/blob/output/github-contribution-grid-snake.svg)   
+</div>
 
 
 
