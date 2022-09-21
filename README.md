@@ -1,5 +1,7 @@
 ### Hello, I am Pedro Eduardo👋
 
+[![wakatime](https://wakatime.com/badge/user/367d7f82-50c8-4b5c-ac88-f6beec3082c1.svg)](https://wakatime.com/@PedroEduardo68)
+
 <div align="center"> <h3>OverView <h3>
   <a href="https://github.com/PedroEduardo68" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEduardo68&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/ >
