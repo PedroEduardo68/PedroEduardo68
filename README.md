@@ -15,7 +15,7 @@
   </a>
 </div>
 
-[![camera_pedro](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://twitter.com/camera_pedro)
+[![camera_pedro](https://github-readme-twitter.gazf.vercel.app/api?id=camera_pedro)](https://twitter.com/camera_pedro)
 
 
 
