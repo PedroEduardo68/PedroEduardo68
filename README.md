@@ -15,6 +15,12 @@
   </a>
 </div>
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://twitter.com/camera_pedro)
+
+
+
+
+
 <div align="center"><br> <h3>Code / DataBases  / Operation System <h3>
   <img align="center" alt="Pedro-Js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Pedro-Ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
