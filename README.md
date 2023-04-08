@@ -9,13 +9,13 @@
   
   ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroEduardo68&theme=monokai&hide_title=true&layout=default)
   
+[![camera_pedro](https://github-readme-twitter.gazf.vercel.app/api?id=camera_pedro)](https://twitter.com/camera_pedro)
   
   <!--  -->
 
   </a>
 </div>
 
-[![camera_pedro](https://github-readme-twitter.gazf.vercel.app/api?id=camera_pedro)](https://twitter.com/camera_pedro)
 
 
 
