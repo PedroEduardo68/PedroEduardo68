@@ -2,8 +2,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/367d7f82-50c8-4b5c-ac88-f6beec3082c1.svg)](https://wakatime.com/@PedroEduardo68)
 
+
+
+
+
 <div align="center"> <h3>OverView <h3>
   <a href="https://github.com/PedroEduardo68" >
+  ![trophy](https://github-profile-trophy.vercel.app/?username=PedroEduardo68)](https://github.com/PedroEduardo68/github-profile-trophy)
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroEduardo68&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/ >
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroEduardo68&layout=compact&langs_count=7&theme=tokyonight"/>
   
