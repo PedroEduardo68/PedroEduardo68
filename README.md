@@ -13,7 +13,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=PedroEduardo68&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 <br>
   
-  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroEduardo68&theme=monokai&hide_title=true&layout=default)
+  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroEduardo68&theme=algolia&hide_title=true&layout=default)
   
 [![camera_pedro](https://github-readme-twitter.gazf.vercel.app/api?id=camera_pedro)](https://twitter.com/camera_pedro)
   
