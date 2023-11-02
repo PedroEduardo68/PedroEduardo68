@@ -8,9 +8,10 @@
 
 <div align="center"> <h3>OverView <h3>
   <a href="https://github.com/PedroEduardo68" >
-  ![trophy](https://github-profile-trophy.vercel.app/?username=PedroEduardo68)](https://github.com/PedroEduardo68/github-profile-trophy)
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroEduardo68&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/ >
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroEduardo68&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PedroEduardo68&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<br>
   
   ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroEduardo68&theme=monokai&hide_title=true&layout=default)
   
