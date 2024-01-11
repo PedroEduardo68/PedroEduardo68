@@ -71,7 +71,7 @@
   <img align="center" alt="Pedro-lov"  src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </div>
 
-
+<!-- 
  <div align="center"><br> <h4>Dev Environment <h4>
   <img align="center" alt="Pedro-sh"  src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg">
   <img align="center" alt="Pedro-vsc"  src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
