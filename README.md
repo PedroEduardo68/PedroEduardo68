@@ -59,12 +59,12 @@
 <p align="center">
   <img src="./img/octocat-pedro.png" width="500" title="Git of the Pedro">
 </p>
-
+<!--  
 <div align="center"><h3>Contribution Grid </h3>
 
 ![Snake animation](https://github.com/PedroEduardo68/PedroEduardo68/blob/output/github-contribution-grid-snake.svg)   
 <div>
-
+-->
 <!--  
 <div align="center"><br> <h3>Dev <h3>
   <img align="center" alt="Pedro-sci"  src="http://ForTheBadge.com/images/badges/built-with-science.svg">
