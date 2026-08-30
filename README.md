@@ -117,6 +117,119 @@ Mestrando em Computação Aplicada | Dev P4 & MERN | Network Manager, Sysadmin &
 </details>
 
 
+
+# Olá, eu sou Pedro Eduardo Camera! 👋
+
+Sou estudante e profissional de tecnologia, com experiência em desenvolvimento de software, administração de sistemas, redes e segurança da informação.
+
+Tenho interesse especial por soluções práticas, automação, desenvolvimento web, infraestrutura e exploração de novas tecnologias.
+
+- 📍 Ibirubá, Brasil
+- 💼 Empresa: Home Pedro
+- 🌐 Portfólio: [devtechcamera.vercel.app](https://devtechcamera.vercel.app/)
+- 👥 21 seguidores no GitHub
+- 👤 Seguindo 45 pessoas
+
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Mestre em Computação Aplicada
+- 💻 Desenvolvedor com experiência em P4, MERN e aplicações web
+- 🌐 Administrador de redes e sistemas
+- 🔐 Interessado em segurança da informação
+- 🐍 Experiência com Python
+- 🐚 Experiência com Shell Script
+- ⚙️ Experiência com C
+- 🌌 Sempre explorando novas tecnologias e possibilidades
+
+---
+
+## 🛠️ Tecnologias e áreas de interesse
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=http&logoColor=white" alt="HTTP"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Redes-1679A7?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=PedroEduardo68&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub de Pedro Eduardo"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroEduardo68&layout=compact&theme=tokyonight"
+    alt="Principais linguagens utilizadas por Pedro Eduardo"
+  />
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+### [PACMAN-MIT-MOD2-PROJECT](https://github.com/PedroEduardo68/PACMAN-MIT-MOD2-PROJECT)
+
+Projeto desenvolvido a partir de uma atividade do MIT, com foco em requisições GET, APIs HTTP e interação com o navegador utilizando HTML.
+
+### [full-code](https://github.com/PedroEduardo68/full-code)
+
+Projeto relacionado à linguagem P4.
+
+### [partial-code](https://github.com/PedroEduardo68/partial-code)
+
+Implementação parcial de um projeto em P4.
+
+### [without-code](https://github.com/PedroEduardo68/without-code)
+
+Projeto relacionado a P4 e Python.
+
+### [backup_ubnt_shell](https://github.com/PedroEduardo68/backup_ubnt_shell)
+
+Automação de backup de dispositivos Ubiquiti utilizando Shell Script.
+
+### [Projeto-INT-Flow-P4](https://github.com/PedroEduardo68/Projeto-INT-Flow-P4)
+
+Projeto desenvolvido em C relacionado a redes e telemetria.
+
+---
+
+## 📈 Atividade recente
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=PedroEduardo68&theme=tokyonight&hide_border=true"
+    alt="Atividade e métricas públicas do GitHub"
+  />
+</p>
+
+---
+
+## 🔗 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/PedroEduardo68">
+    <img src="https://img.shields.io/badge/GitHub-PedroEduardo68-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://devtechcamera.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-DevTechCamera-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Em direção ao desconhecido. Nunca conhecido.”</i>
+</p>
 <!--
 <div align="center"> <h3>OverView <h3>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=transparent)
