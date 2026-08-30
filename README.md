@@ -8,7 +8,7 @@
 
 <div align="center"> <h3>OverView <h3>
   <a href="https://github.com/PedroEduardo68" >
-  <img height="180em" src="[https://github-readme-stats-sigma-five.vercel.app/api?username=PedroEduardo68&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=transparent)"/ >
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=transparent)
 <br>
   
   <!--  -->
