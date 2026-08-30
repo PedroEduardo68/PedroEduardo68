@@ -102,23 +102,17 @@ Mestrando em Computação Aplicada | Dev P4 & MERN | Network Manager, Sysadmin &
 
 ---
 
-<details>
-<summary>📄 Sobre este README</summary>
 
-> Este README utiliza as métricas dinâmicas do [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended), o sucessor ativamente mantido do `github-readme-stats`.
-
-**Cards incluídos:**
-- 📊 Stats Card (com ícones, ranking e commits totais)
-- 📈 Stats Detalhadas (PRs merged, revisões, discussões)
-- 💻 Top Languages (modo donut)
-- 📌 Repo Cards (4 repositórios pinados)
-
-**Como usar:** Crie um repositório com o mesmo nome do seu usuário (`PedroEduardo68`) no GitHub e cole este README.md. O perfil exibirá automaticamente o conteúdo.
-</details>
 
 
 
 # Olá, eu sou Pedro Eduardo Camera! 👋
+
+[![wakatime](https://wakatime.com/badge/user/367d7f82-50c8-4b5c-ac88-f6beec3082c1.svg)](https://wakatime.com/@PedroEduardo68)
+
+> 🚀 *"In space!! Towards the unknown! Never known!!"*
+
+Mestrando em Computação Aplicada | Dev P4 & MERN | Network Manager, Sysadmin & Security Manager
 
 Sou estudante e profissional de tecnologia, com experiência em desenvolvimento de software, administração de sistemas, redes e segurança da informação.
 
