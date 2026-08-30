@@ -11,10 +11,6 @@
   <img height="180em" src="[https://github-readme-stats-sigma-five.vercel.app/api?username=PedroEduardo68&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=transparent)"/ >
 <br>
   
-  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroEduardo68&theme=algolia&hide_title=true&layout=default)
-  
-[![camera_pedro](https://github-readme-twitter.gazf.vercel.app/api?id=camera_pedro)](https://twitter.com/camera_pedro)
-  
   <!--  -->
 
   </a>
