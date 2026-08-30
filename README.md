@@ -7,10 +7,7 @@
 
 
 <div align="center"> <h3>OverView <h3>
-  <a href="https://github.com/PedroEduardo68" >
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=transparent)
-<br>
-  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=transparent)
   <!--  -->
 
   </a>
